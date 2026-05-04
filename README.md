@@ -6,7 +6,7 @@ A modern **Cryptocurrency Analysis Dashboard** built with Python and Streamlit t
 
 ## 📸 Preview
 
-![Dashboard Preview](https://via.placeholder.com/1000x500.png?text=Crypto+Analysis+Dashboard)
+![Dashboard Preview]((https://github.com/ThueAungLynn/crypto_analysis_dashboard/blob/main/Screenshot_2.png))
 
 > Replace this image with your real dashboard screenshot later.
 

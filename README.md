@@ -39,29 +39,8 @@ This project provides a simple and powerful interface for analyzing cryptocurren
 
 ---
 
-## 📁 Project Structure
 
-crypto_analysis_dashboard/
-│── app.py  
-│── data/  
-│── utils/  
-│── requirements.txt  
-│── README.md  
 
----
-
-## 🚀 Getting Started
-
-### Clone Repository
-git clone https://github.com/ThueAungLynn/crypto_analysis_dashboard.git
-
-### Install Requirements
-pip install -r requirements.txt
-
-### Run App
-streamlit run app.py
-
----
 
 ## 📊 Usage
 
